@@ -9,9 +9,9 @@
 
 - 🔭 I’m currently working on [multipurc](multipurc.com)
 
-- 🌱 I’m currently learning **visual reality, Game Development**
+- 🌱 I’m currently learning **Devpos, Web Devloper**
 
-- 👨‍💻 All of my projects are available at [talukder15-4169@gmail.com](talukder15-4169@gmail.com)
+- 👨‍💻 All of my projects are available at [mdzubayertalukder@gmail.com](mdzubayertalukder@gmail.com)
 
 - 💬 Ask me about **visual reality**
 
