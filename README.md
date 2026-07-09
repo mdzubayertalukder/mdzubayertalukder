@@ -1,32 +1,238 @@
-![logo](https://github.com/mdzubayertalukder/zubayertalukder/blob/main/pngtree-vr-glasses-technology-wisdom-picture-image_918797.jpg)
-<h1 align="center">Hi 👋, I'm MD ZUBAYER TALUKDER</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
-<img align="right" alt "VR" width="400" src="https://cdn.pixabay.com/animation/2022/09/09/08/45/08-45-56-711_512.gif">
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mdzubayertalukder&label=Profile%20views&color=0e75b6&style=flat" alt="mdzubayertalukder" /> </p>
+# Hi 👋, I'm MD ZUBAYER TALUKDER
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+### DevOps Engineer | Cloud & Infrastructure Enthusiast | Full Stack Developer
 
-- 🔭 I’m currently working on [multipurc](multipurc.com)
-
-- 🌱 I’m currently learning **Devpos, Web Devloper**
-
-- 👨‍💻 All of my projects are available at [mdzubayertalukder@gmail.com](mdzubayertalukder@gmail.com)
-
-- 💬 Ask me about **visual reality**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/zubayer-talukder-324607215" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zubayer-talukder-324607215" height="30" width="40" /></a>
-<a href="https://fb.com/zubayer.talukder.777" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="zubayer.talukder.777" height="30" width="40" /></a>
-<a href="https://instagram.com/zubayer_talukder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="zubayer_talukder" height="30" width="40" /></a>
+<p>
+I build, deploy, automate, and manage scalable web applications and cloud infrastructure.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+<p>
+Passionate about DevOps, Cloud Computing, CI/CD Automation, Containerization, Linux Servers, and modern Web Technologies.
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mdzubayertalukder&show_icons=true&locale=en&layout=compact" alt="mdzubayertalukder" /></p>
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mdzubayertalukder&show_icons=true&locale=en" alt="mdzubayertalukder" /></p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mdzubayertalukder&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mdzubayertalukder&" alt="mdzubayertalukder" /></p>
+---
+
+## 👨‍💻 About Me
+
+* 🚀 Currently working on **Multipurc**, an eCommerce SaaS platform.
+
+* ☁️ Learning and working with **DevOps, Cloud Infrastructure, CI/CD, and System Administration**.
+
+* 🐳 Deploying and managing applications using **Docker and Docker Compose**.
+
+* ⚙️ Building automated deployment pipelines using **GitHub Actions and CI/CD workflows**.
+
+* 🐧 Managing **Linux servers, Nginx, SSL, domains, reverse proxies, and production environments**.
+
+* ☁️ Exploring cloud infrastructure using **AWS, Cloudflare, S3, EC2, and CloudFront**.
+
+* 💻 Experienced with **Laravel, React.js, Next.js, Node.js, PHP, and WordPress**.
+
+* 🛠️ Interested in **DevOps Engineering, Cloud Computing, Infrastructure Automation, Monitoring, and Platform Engineering**.
+
+* 📫 Reach me at **[mdzubayertalukder@gmail.com](mailto:mdzubayertalukder@gmail.com)**
+
+---
+
+## 🛠️ DevOps & Cloud Technologies
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=linux" width="45" alt="Linux" />
+<img src="https://skillicons.dev/icons?i=docker" width="45" alt="Docker" />
+<img src="https://skillicons.dev/icons?i=nginx" width="45" alt="Nginx" />
+<img src="https://skillicons.dev/icons?i=aws" width="45" alt="AWS" />
+<img src="https://skillicons.dev/icons?i=cloudflare" width="45" alt="Cloudflare" />
+<img src="https://skillicons.dev/icons?i=git" width="45" alt="Git" />
+<img src="https://skillicons.dev/icons?i=github" width="45" alt="GitHub" />
+<img src="https://skillicons.dev/icons?i=githubactions" width="45" alt="GitHub Actions" />
+<img src="https://skillicons.dev/icons?i=bash" width="45" alt="Bash" />
+
+</p>
+
+---
+
+## 💻 Development Technologies
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=php" width="45" alt="PHP" />
+<img src="https://skillicons.dev/icons?i=laravel" width="45" alt="Laravel" />
+<img src="https://skillicons.dev/icons?i=javascript" width="45" alt="JavaScript" />
+<img src="https://skillicons.dev/icons?i=typescript" width="45" alt="TypeScript" />
+<img src="https://skillicons.dev/icons?i=react" width="45" alt="React" />
+<img src="https://skillicons.dev/icons?i=nextjs" width="45" alt="Next.js" />
+<img src="https://skillicons.dev/icons?i=nodejs" width="45" alt="Node.js" />
+<img src="https://skillicons.dev/icons?i=mysql" width="45" alt="MySQL" />
+<img src="https://skillicons.dev/icons?i=postgresql" width="45" alt="PostgreSQL" />
+<img src="https://skillicons.dev/icons?i=redis" width="45" alt="Redis" />
+
+</p>
+
+---
+
+## 🚀 DevOps Skills
+
+```text
+Infrastructure & Servers
+├── Linux Server Administration
+├── VPS & Cloud Server Management
+├── Nginx & Reverse Proxy
+├── Domain & DNS Management
+├── SSL/TLS Configuration
+└── Production Deployment
+
+Containers
+├── Docker
+├── Docker Compose
+├── Container Networking
+├── Volumes & Persistent Storage
+└── Multi-Container Applications
+
+CI/CD & Automation
+├── GitHub Actions
+├── Automated Deployment
+├── Git Workflow
+├── CI/CD Pipelines
+└── Bash Scripting
+
+Cloud & Platforms
+├── AWS EC2
+├── Amazon S3
+├── CloudFront
+├── Cloudflare
+└── Cloud Infrastructure
+
+Development
+├── Laravel
+├── React.js
+├── Next.js
+├── Node.js
+├── PHP
+└── REST APIs
+```
+
+---
+
+## 📌 Featured Projects
+
+### 🚀 Multipurc — eCommerce SaaS Platform
+
+A multi-tenant eCommerce website builder platform with custom themes, plugins, integrations, dropshipping tools, and AI-powered features.
+
+**DevOps & Infrastructure Work:**
+
+* Dockerized application deployment
+* Linux server administration
+* Nginx reverse proxy configuration
+* Domain and SSL management
+* Cloudflare integration
+* Database management
+* Production deployment and troubleshooting
+
+---
+
+### 🐳 Dockerized Web Application Infrastructure
+
+Deployment architecture for Laravel, Node.js, and web applications using:
+
+* Docker
+* Docker Compose
+* Nginx
+* MySQL / PostgreSQL
+* Redis
+* Persistent Volumes
+* Container Networking
+* Reverse Proxy
+
+---
+
+### ⚙️ CI/CD Deployment Pipeline
+
+Automated application deployment workflow using:
+
+```text
+Developer
+    │
+    ▼
+Git Push
+    │
+    ▼
+GitHub Repository
+    │
+    ▼
+GitHub Actions
+    │
+    ├── Build
+    ├── Test
+    ├── Security Check
+    └── Deploy
+    │
+    ▼
+Production Server
+    │
+    ▼
+Docker Containers
+    │
+    ▼
+Nginx Reverse Proxy
+    │
+    ▼
+Live Application
+```
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=mdzubayertalukder&show_icons=true&theme=tokyonight" />
+
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=mdzubayertalukder&theme=tokyonight" />
+
+</p>
+
+<p align="center">
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdzubayertalukder&layout=compact&theme=tokyonight" />
+
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+
+<a href="https://linkedin.com/in/zubayer-talukder-324607215">
+<img src="https://skillicons.dev/icons?i=linkedin" width="40" alt="LinkedIn"/>
+</a>
+
+<a href="https://github.com/mdzubayertalukder">
+<img src="https://skillicons.dev/icons?i=github" width="40" alt="GitHub"/>
+</a>
+
+<a href="mailto:mdzubayertalukder@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" width="40" alt="Email"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+### 🚀 Building • Automating • Deploying • Scaling
+
+**Focused on becoming a professional DevOps & Cloud Engineer.**
+
+</div>
